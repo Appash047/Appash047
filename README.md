@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-### Hi there 👋<br><br>- 🔭 I’m currently working on **College Directory Application** and **JavaDev** projects.<br>- 🤝 I’m looking to collaborate on **Java backend development** and **React frontend development** projects.<br>- 💬 I’m looking for help with **optimizing backend performance** and **integration of microservices**.<br>- 🌱 I’m currently learning **advanced Spring Security** and **React with RESTful APIs**.<br>- ❓ Ask me about **Java, Spring Boot, PostgreSQL, and deployment on AWS**.<br>- 🎉 Fun fact: I love diving deep into code to solve complex problems while also being an avid reader of technology trends!
+### Hi there 👋<br><br>- 🔭 I’m currently working on **College Directory Application** and **JavaDev** projects.<br>- 🤝 I’m looking to collaborate on **backend development** and **frontend development** projects.<br>- 💬 I’m looking for help with **optimizing backend performance** and **integration of microservices**.<br>- 🌱 I’m currently learning **advanced Spring Security** and **React with RESTful APIs**.<br>- ❓ Ask me about **Java, Spring Boot, PostgreSQL, and deployment on AWS**.<br>- 🎉 Fun fact: I love diving deep into code to solve complex problems while also being an avid reader of technology trends!
 
 
 ## 🌐 Socials:
