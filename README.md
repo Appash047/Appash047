@@ -1,9 +1,9 @@
 <!-- 🔥 Animated Typing Effect -->
 
-<h3 align="center">Appasha Poojari | DevOps Engineer | AWS Certified </h3>
+<h3 align="center"> Multi-Cloud and DevOps Engineer</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Reyaz%20Shaik&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Multicloud%20DevOps%20Trainer%20|%20AWS%20Azure%20GCP&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Appash Poojari%20Shaik&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AWS Certified%20DevOps%20%20|%20AWS&descAlignY=55&descSize=18"/>
 </p>
 
 ---
